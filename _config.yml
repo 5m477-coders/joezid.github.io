@@ -14,12 +14,12 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: joezid
+      title: HOME
 
 description: Stylish Jekyll Theme
 author:
   name: dbyll
-  email: dbyll@ismaildemirbilek.com
+  email: yossefzidan97@gmail.com
   github: joezid
   twitter: yossefzidann
   facebook: yossef.zidan.7
