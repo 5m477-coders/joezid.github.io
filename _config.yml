@@ -31,7 +31,7 @@ tags_path: tags.html
 
 # set it as url of an image
 # sidebar_background_image: https://github.com/joezid/joezid.github.io/raw/master/assets/ico/avatar.jpg
-
+google_analytics: UA-161603323-1
 BASE_PATH:
 
 plugins:
