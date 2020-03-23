@@ -80,6 +80,6 @@ After runing our script we find our flag :)
 ![Image](https://raw.githubusercontent.com/joezid/joezid.github.io/master/Images/BsidesCTF2020/14.png)
 
 # Flag
-{% highlight ruby %}
-HTB{b@d_b@d_Onii_chw@n_:(}
-{% endhighlight %}
+
+**HTB{b@d_b@d_Onii_chw@n_:(}
+
