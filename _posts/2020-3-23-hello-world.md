@@ -7,7 +7,7 @@ fullview: true
 comments: true
 ---
 
-**Hey** all this is joezid from **0xN1ghtRa1d** team. 
+Hey all this is joezid from **0xN1ghtRa1d** team. 
 
 **Who am I?**
 
