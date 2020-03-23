@@ -2,7 +2,7 @@
 layout: post
 title: You Bee ex
 categories: [CTF-Writeups]
-tags: [Reverse Engineering,Competitions]
+tags: [Reverse Engineering,Competitions,CyberTalents]
 description: Writeup for You Bee ex challenge from CyberTalents.
 ---
 # Challenge name
