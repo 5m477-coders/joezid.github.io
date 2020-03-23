@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-google_analytics: dbyll
+google_analytics: UA-161603323-1
 title: joezid
 
 defaults:
@@ -31,7 +31,6 @@ tags_path: tags.html
 
 # set it as url of an image
 # sidebar_background_image: https://github.com/joezid/joezid.github.io/raw/master/assets/ico/avatar.jpg
-google_analytics: UA-161603323-1
 BASE_PATH:
 
 plugins:
