@@ -81,5 +81,5 @@ After runing our script we find our flag :)
 
 # Flag
 
-**HTB{b@d_b@d_Onii_chw@n_:(}
+**HTB{b@d_b@d_Onii_chw@n_:(}**
 
