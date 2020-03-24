@@ -50,6 +50,7 @@ Let's decompile the main.
 ![Image](https://raw.githubusercontent.com/joezid/joezid.github.io/master/Images/comeplaywithme/5.png)
 
 As we can see we got an error due to invalid magic number,To fix this error we will add 8 bytes to the header of the file the first 4 bytes is the magic number for the python 2.7 version and 4 bytes for time stamp (we can set it as zero).
+**Note** we have to add these bytes in the little endian format.
 
 ![Image](https://raw.githubusercontent.com/joezid/joezid.github.io/master/Images/comeplaywithme/6.png)
 
