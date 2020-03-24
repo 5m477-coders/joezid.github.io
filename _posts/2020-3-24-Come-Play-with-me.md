@@ -30,7 +30,7 @@ Our goal now is to retrive the source code of the executable first thing we have
 pip3 install pyinstaller
 {% endhighlight %}
 
-We will use pyi-archive_viewer command to view the archivefiles in the executables.
+We will use pyi-archive_viewer command to view the archivefiles in the executable.
 
 ![Image](https://raw.githubusercontent.com/joezid/joezid.github.io/master/Images/comeplaywithme/3.png)
 
